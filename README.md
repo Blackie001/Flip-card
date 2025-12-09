@@ -18,19 +18,15 @@ Built with vanilla HTML, CSS (3D transforms), and minimal JavaScript. No framewo
 
 ---
 
-## Features
+## 🛠️ Features
 
 - Full GPU-accelerated 3D transformations (`transform-style: preserve-3d`)
 - Realistic depth and lighting with dynamic shadows
 - Responsive design (works on desktop hover and mobile tap)
 - Smooth easing with `cubic-bezier` timing functions
-- Lightweight: < 8 KB total (HTML + CSS + JS)
+- Lightweight: < 8.2 KB total (HTML + CSS)
 - Easily customizable colors, content, and dimensions
 
----
-
-## 🛠️Files
-created with pure html and CSS only
 
 ---
 
