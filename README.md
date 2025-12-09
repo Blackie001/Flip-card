@@ -38,6 +38,26 @@ created with pure html and CSS only
 <img width="1052" height="677" alt="image" src="https://github.com/user-attachments/assets/0d0b5bba-8894-4ba1-b1f7-765c6042d1cc" />
 <img width="1050" height="722" alt="image" src="https://github.com/user-attachments/assets/ba473698-4e1d-4931-9181-31fbde1282b8" />
 
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!
+If you'd like to add more personality modes, events, or animations, feel free to contribute.
+
+---
+
+## 📜 License
+
+This project is open-source under the MIT License.
+Use it, modify it, or build on it freely.
+
+---
+
+## 🚀 How to View
+Clone this repository: https://blackie001.github.io/Flip-card/
+
+
 
 
 
